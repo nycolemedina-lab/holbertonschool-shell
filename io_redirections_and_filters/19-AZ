@@ -1,2 +1,2 @@
-#!/bid/bash
+#!/bin/bash
 tr AZ ce
